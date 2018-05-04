@@ -1,0 +1,2 @@
+1. Configured to run with kuchbhi Slack workspace adn #stocks channel
+2. Copy this to any vm and run it in background 'python slack.py &'
